@@ -2,8 +2,8 @@
 
 this app is my first react app created to implement :
 
-  - designe patterns (singilton ,Observer).
-  - reusable and independint componants.
+  - design patterns (singleton ,Observer).
+  - reusable and independent components.
   - tested using Node js Api with Mongo DB .
   - deployed using gh-pages and firebase .
 
@@ -17,7 +17,7 @@ this app uses a number of open source projects to work properly:
 
 * [Node.js] - to drive the backend Api managing the mongoDB. 
 * [React JS] - the platform on witch the app is based.
-* [mongoDB] - the data base used in designe and testing.
+* [mongoDB] - the data base used in design and testing.
 * [bootstrap] -mobile-first front-end web development. 
 * [gh-pages]-publish website to a gh-pages branch on GitHub.
 * [firebase]-for the database firestore solution is used in deployment.
@@ -28,7 +28,7 @@ this app uses a number of open source projects to work properly:
 ### Todos
 
  - improve front end
- - experement with Redux
+ - experiment with Redux
 
 License
 ----
