@@ -5,7 +5,7 @@ this app is my first react app created to implement :
   - design patterns (singleton ,Observer).
   - reusable and independent components.
   - tested using Node js Api with Mongo DB .
-  - deployed using gh-pages and firebase .
+  - deployed using gh-pages and firebase firestore database .
 
 ### Demo
 you can see it in action [here](https://abdullahazab.github.io/myapp/
